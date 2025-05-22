@@ -34,3 +34,4 @@
 | 2023/1/2     | Afternoon  | A        | Numerous       | Numerous       | -        |
 | 2023/1/2     | Evening    | A        | Many           | Average        | -        |
 | 2023/1/2     | Morning    | B        | Few            | Few            | -        |
+| 2023/1/2     | Midday     | B        | Many           | Average        | -        |
